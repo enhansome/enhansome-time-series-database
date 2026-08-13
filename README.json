@@ -42,7 +42,7 @@
             "last_commit": "2026-08-09T08:25:20Z",
             "owner": "cmu-db",
             "repo": "dbdb.io",
-            "stars": 574
+            "stars": 575
           }
         },
         {
@@ -61,7 +61,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:37:30.328Z",
+    "last_updated": "2026-08-13T14:56:13.856Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
     "enhanced_repository": "enhansome/enhansome-time-series-database",
