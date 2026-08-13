@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome big data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T12:51:12Z",
+            "owner": "oxnr",
+            "repo": "awesome-bigdata",
+            "stars": 14532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome db",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-04T12:40:15Z",
+            "owner": "numetriclabz",
+            "repo": "awesome-db",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbdb.io",
+          "description": "A database for all the databases by @apavlo from CMU DB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:25:20Z",
+            "owner": "cmu-db",
+            "repo": "dbdb.io",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github topic: timeseries-database",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Acknowledgement and Alternatives"
+    },
+    {
+      "description": "To the extent possible under law, Pinglei Guo has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:37:30.328Z",
+    "original_repository": "xephonhq/awesome-time-series-database",
+    "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
+    "enhanced_repository": "enhansome/enhansome-time-series-database",
+    "enhanced_repository_description": null,
+    "title": "Awesome time series database with stars"
+  }
+}
