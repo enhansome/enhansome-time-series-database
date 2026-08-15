@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14532
+            "stars": 14533
           }
         },
         {
@@ -61,7 +61,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:50:21.762Z",
+    "last_updated": "2026-08-15T14:20:47.660Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
     "enhanced_repository": "enhansome/enhansome-time-series-database",
