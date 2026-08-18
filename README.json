@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14532
+            "stars": 14531
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T08:25:20Z",
+            "last_commit": "2026-08-17T21:28:13Z",
             "owner": "cmu-db",
             "repo": "dbdb.io",
             "stars": 576
@@ -61,7 +61,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:26:03.546Z",
+    "last_updated": "2026-08-18T14:32:21.640Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
     "enhanced_repository": "enhansome/enhansome-time-series-database",
