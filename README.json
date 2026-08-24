@@ -162,7 +162,7 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-24T14:17:02Z",
+            "last_commit": "2026-08-24T14:49:20Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
             "stars": 49425
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-24T13:29:59Z",
+            "last_commit": "2026-08-24T14:39:45Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5853
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-24T13:59:02Z",
+            "last_commit": "2026-08-24T14:48:09Z",
             "owner": "crate",
             "repo": "crate",
             "stars": 4425
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-20T19:31:27Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31709
+            "stars": 31710
           }
         },
         {
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T12:48:09Z",
+            "last_commit": "2026-08-24T14:49:24Z",
             "owner": "prometheus",
             "repo": "prometheus",
             "stars": 65798
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 19257422,
             "language": "Java",
-            "last_commit": "2026-08-24T14:13:32Z",
+            "last_commit": "2026-08-24T14:47:17Z",
             "owner": "questdb",
             "repo": "questdb",
             "stars": 17274
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:12.091Z",
+    "last_updated": "2026-08-24T14:50:09.646Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_id": 71190322,
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
