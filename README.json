@@ -5,6 +5,777 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Akumuli",
+          "description": "https://github.com/akumuli/Akumuli maintained c++ localfs tcp text apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 16326644,
+            "language": "C++",
+            "last_commit": "2022-08-07T01:52:15Z",
+            "owner": "akumuli",
+            "repo": "Akumuli",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arctic",
+          "description": "https://github.com/man-group/arctic active python mongodb tcp python lgpl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36506399,
+            "language": "Python",
+            "last_commit": "2024-04-08T16:35:28Z",
+            "owner": "man-group",
+            "repo": "arctic",
+            "stars": 3085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas",
+          "description": "https://github.com/Netflix/atlas maintained scala memory http stack apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22631422,
+            "language": "Scala",
+            "last_commit": "2026-08-23T22:21:05Z",
+            "owner": "Netflix",
+            "repo": "atlas",
+            "stars": 3562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beringei",
+          "description": "https://github.com/facebookarchive/beringei dead c++ memory thrift thrift bsd",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 70541093,
+            "language": "C++",
+            "last_commit": "2018-07-11T17:33:58Z",
+            "owner": "facebookarchive",
+            "repo": "beringei",
+            "stars": 3152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigGraphite",
+          "description": "https://github.com/criteo/biggraphite maintained python cassandra http graphite apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 57889412,
+            "language": "Python",
+            "last_commit": "2022-12-08T05:48:01Z",
+            "owner": "criteo",
+            "repo": "biggraphite",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blueflood",
+          "description": "https://github.com/rackerlabs/blueflood dead java cassandra,elasticsearch http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10081109,
+            "language": "Java",
+            "last_commit": "2024-08-19T20:34:55Z",
+            "owner": "rax-maas",
+            "repo": "blueflood",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTrDB",
+          "description": "https://github.com/BTrDB/btrdb-server maintained go ceph http json gpl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22427082,
+            "language": "Go",
+            "last_commit": "2021-08-14T06:24:24Z",
+            "owner": "BTrDB",
+            "repo": "btrdb-server",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catena",
+          "description": "https://github.com/Cistern/catena dead go localfs http json bsd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28949765,
+            "language": "Go",
+            "last_commit": "2016-03-24T14:40:27Z",
+            "owner": "Cistern",
+            "repo": "catena",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronix",
+          "description": "https://github.com/ChronixDB/chronix.server maintained java solr http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 43548435,
+            "language": "Java",
+            "last_commit": "2019-11-18T13:02:58Z",
+            "owner": "ChronixDB",
+            "repo": "chronix.server",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citus",
+          "description": "https://github.com/citusdata/citus active c postgresql tcp sql agpl-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50874442,
+            "language": "C",
+            "last_commit": "2026-08-24T14:04:33Z",
+            "owner": "citusdata",
+            "repo": "citus",
+            "stars": 12722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClickHouse",
+          "description": "https://github.com/ClickHouse/ClickHouse active c++ localfs tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60246359,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:17:02Z",
+            "owner": "ClickHouse",
+            "repo": "ClickHouse",
+            "stars": 49425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "https://github.com/cortexproject/cortex active go s3,cassandra,bigtable,dynamodb http promql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67793333,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:29:59Z",
+            "owner": "cortexproject",
+            "repo": "cortex",
+            "stars": 5853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrateDB",
+          "description": "https://github.com/crate/crate active java elasticsearch,s3 tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9342529,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:59:02Z",
+            "owner": "crate",
+            "repo": "crate",
+            "stars": 4425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DalmatinerDB",
+          "description": "https://github.com/dalmatinerdb/dalmatinerdb maintained erlang localfs http text mit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20814855,
+            "language": "Erlang",
+            "last_commit": "2019-02-11T02:48:59Z",
+            "owner": "dalmatinerdb",
+            "repo": "dalmatinerdb",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FiloDB",
+          "description": "https://github.com/filodb/FiloDB active scala cassandra http promql,metricsql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29259281,
+            "language": "Scala",
+            "last_commit": "2026-08-18T20:45:09Z",
+            "owner": "filodb",
+            "repo": "FiloDB",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flint",
+          "description": "https://github.com/twosigma/flint maintained scala spark http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71383857,
+            "language": "Scala",
+            "last_commit": "2020-07-03T12:32:23Z",
+            "owner": "twosigma",
+            "repo": "flint",
+            "stars": 1177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnocchi",
+          "description": "https://github.com/gnocchixyz/gnocchi dead python localfs http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91715647,
+            "language": "Python",
+            "last_commit": "2026-05-08T13:10:47Z",
+            "owner": "gnocchixyz",
+            "repo": "gnocchi",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GridDB",
+          "description": "https://github.com/griddb/griddb active c++ localfs jdbc sql,tql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52420005,
+            "language": "C++",
+            "last_commit": "2026-03-19T08:57:07Z",
+            "owner": "griddb",
+            "repo": "griddb",
+            "stars": 2475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HawkularMertics",
+          "description": "https://github.com/hawkular/hawkular-metrics maintained java cassandra http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 17705626,
+            "language": "Java",
+            "last_commit": "2026-05-08T15:46:05Z",
+            "owner": "hawkular",
+            "repo": "hawkular-metrics",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroic",
+          "description": "https://github.com/spotify/heroic maintained java bigtable,cassandra,elasticsearch http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 36483902,
+            "language": "Java",
+            "last_commit": "2021-03-26T19:35:27Z",
+            "owner": "spotify",
+            "repo": "heroic",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "https://github.com/influxdata/influxdb active go localfs http influxql,flux mit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13124802,
+            "language": "Rust",
+            "last_commit": "2026-08-20T19:31:27Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoTDB",
+          "description": "https://github.com/apache/incubator-iotdb active java hdfs,localfs tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158975124,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:01:39Z",
+            "owner": "apache",
+            "repo": "iotdb",
+            "stars": 6382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KairosDB",
+          "description": "https://github.com/kairosdb/kairosdb maintained java cassandra http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8039659,
+            "language": "Java",
+            "last_commit": "2026-03-05T22:27:54Z",
+            "owner": "kairosdb",
+            "repo": "kairosdb",
+            "stars": 1762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Khronus",
+          "description": "https://github.com/khronus/khronus dead scala cassandra http json,influxql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24653898,
+            "language": "Scala",
+            "last_commit": "2018-06-05T13:37:42Z",
+            "owner": "khronus",
+            "repo": "khronus",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinDB",
+          "description": "https://github.com/lindb/lindb active go localfs http sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191676087,
+            "language": "Go",
+            "last_commit": "2026-07-27T09:56:31Z",
+            "owner": "lindb",
+            "repo": "lindb",
+            "stars": 3066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3",
+          "description": "https://github.com/m3db/m3 active go localfs http promql,graphite,m3query,sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61153677,
+            "language": "Go",
+            "last_commit": "2026-08-17T15:26:52Z",
+            "owner": "m3db",
+            "repo": "m3",
+            "stars": 4894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metrictank",
+          "description": "https://github.com/grafana/metrictank active go cassandra,elasticsearch http graphite agpl-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30401116,
+            "language": "Go",
+            "last_commit": "2023-08-23T15:17:14Z",
+            "owner": "grafana-cold-storage",
+            "repo": "metrictank",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newts",
+          "description": "https://github.com/OpenNMS/newts/ maintained java cassandra http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16189524,
+            "language": "Java",
+            "last_commit": "2026-07-22T19:49:32Z",
+            "owner": "OpenNMS",
+            "repo": "newts",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTSDB",
+          "description": "https://github.com/OpenTSDB/opentsdb maintained java hbase http,tcp json lgpl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 865412,
+            "language": "Java",
+            "last_commit": "2024-12-12T20:03:34Z",
+            "owner": "OpenTSDB",
+            "repo": "opentsdb",
+            "stars": 5065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Pinot",
+          "description": "https://github.com/apache/incubator-pinot active java s3,hdfs,azdls http pql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19961085,
+            "language": "Java",
+            "last_commit": "2026-08-24T11:13:48Z",
+            "owner": "apache",
+            "repo": "pinot",
+            "stars": 6126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PinusDB",
+          "description": "https://github.com/pinusdb/pinusdb maintained c++ localfs tcp sql gpl-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205350261,
+            "language": "C++",
+            "last_commit": "2024-03-19T00:48:29Z",
+            "owner": "pinusdb",
+            "repo": "pinusdb",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PipelineDB",
+          "description": "https://github.com/pipelinedb/pipelinedb dead c postgresql tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14702444,
+            "language": "C",
+            "last_commit": "2022-02-20T10:24:23Z",
+            "owner": "pipelinedb",
+            "repo": "pipelinedb",
+            "stars": 2662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "https://github.com/prometheus/prometheus active go localfs prometheus promql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6838921,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:48:09Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuestDB",
+          "description": "https://github.com/questdb/questdb active java localfs postgres sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19257422,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:13:32Z",
+            "owner": "questdb",
+            "repo": "questdb",
+            "stars": 17274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seriously",
+          "description": "https://github.com/dustin/seriesly dead go localfs http json mit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 5575157,
+            "language": "Go",
+            "last_commit": "2015-09-17T23:56:18Z",
+            "owner": "dustin",
+            "repo": "seriesly",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidewinder",
+          "description": "https://github.com/srotya/sidewinder dead java localfs tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79304189,
+            "language": "Java",
+            "last_commit": "2020-06-19T08:17:12Z",
+            "owner": "srotya",
+            "repo": "sidewinder",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SiriDB",
+          "description": "https://github.com/SiriDB/siridb-server active c localfs http text mit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55093657,
+            "language": "C",
+            "last_commit": "2026-07-27T13:07:07Z",
+            "owner": "SiriDB",
+            "repo": "siridb-server",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDengine",
+          "description": "https://github.com/taosdata/TDengine active c localfs tcp sql agpl-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196353673,
+            "language": "C",
+            "last_commit": "2026-08-24T06:27:16Z",
+            "owner": "taosdata",
+            "repo": "TDengine",
+            "stars": 25081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tgres",
+          "description": "https://github.com/tgres/tgres dead go postgresql tcp sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50001820,
+            "language": "Go",
+            "last_commit": "2021-12-22T23:37:19Z",
+            "owner": "tgres",
+            "repo": "tgres",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thanos",
+          "description": "https://github.com/thanos-io/thanos active go localfs,s3 http,grpc promql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109162639,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:18:33Z",
+            "owner": "thanos-io",
+            "repo": "thanos",
+            "stars": 14183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timebala",
+          "description": "https://github.com/mattbostock/timbala dead go localfs http promql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71015036,
+            "language": "Go",
+            "last_commit": "2018-02-11T22:08:38Z",
+            "owner": "mattbostock",
+            "repo": "timbala",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timely",
+          "description": "https://github.com/NationalSecurityAgency/timely maintained java hdfs,accumulo http json apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56099345,
+            "language": "Java",
+            "last_commit": "2026-05-13T16:12:32Z",
+            "owner": "NationalSecurityAgency",
+            "repo": "timely",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimescaleDB",
+          "description": "https://github.com/timescale/timescaledb active c postgresql postgres sql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84240850,
+            "language": "C",
+            "last_commit": "2026-08-24T13:04:38Z",
+            "owner": "timescale",
+            "repo": "timescaledb",
+            "stars": 23404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrailDB",
+          "description": "https://github.com/traildb/traildb dead c localfs embed python mit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22868877,
+            "language": "C",
+            "last_commit": "2021-01-24T17:29:27Z",
+            "owner": "traildb",
+            "repo": "traildb",
+            "stars": 1090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsdb-layer",
+          "description": "https://github.com/richardartoul/tsdb-layer dead go foundationdb grpc text unknown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189921280,
+            "language": "Go",
+            "last_commit": "2019-08-27T01:12:44Z",
+            "owner": "richardartoul",
+            "repo": "tsdb-layer",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "μts",
+          "description": "https://github.com/mixer/uts dead javascript memory embed json mit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 69587725,
+            "language": "TypeScript",
+            "last_commit": "2019-02-21T16:48:32Z",
+            "owner": "mixer",
+            "repo": "uts",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaultaire",
+          "description": "https://github.com/afcowie/vaultaire dead haskell ceph http json unknown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14444952,
+            "language": "Haskell",
+            "last_commit": "2015-03-25T02:38:55Z",
+            "owner": "istathar",
+            "repo": "vaultaire",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "https://github.com/VictoriaMetrics/VictoriaMetrics active go localfs http promql,metricsql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150954997,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:44:47Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulcan",
+          "description": "https://github.com/digitalocean/vulcan dead go cassandra http promql apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 64259705,
+            "language": "Go",
+            "last_commit": "2017-07-10T14:38:55Z",
+            "owner": "digitalocean",
+            "repo": "vulcan",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warp10",
+          "description": "https://github.com/senx/warp10-platform active java leveldb,hbase http warpscript apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50594316,
+            "language": "Java",
+            "last_commit": "2026-02-20T10:21:33Z",
+            "owner": "senx",
+            "repo": "warp10-platform",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xephon-K",
+          "description": "https://github.com/xephonhq/xephon-k dead go cassandra,localfs http,grpc json mit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80474672,
+            "language": "Go",
+            "last_commit": "2020-02-13T05:20:02Z",
+            "owner": "xephonhq",
+            "repo": "xephon-k",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "awesome big data",
           "description": null,
           "children": [],
@@ -15,7 +786,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14540
+            "stars": 14541
           }
         },
         {
@@ -30,7 +801,7 @@
             "last_commit": "2024-03-04T12:40:15Z",
             "owner": "numetriclabz",
             "repo": "awesome-db",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -42,10 +813,10 @@
             "archived": false,
             "id": 19864037,
             "language": "Python",
-            "last_commit": "2026-08-21T23:25:33Z",
+            "last_commit": "2026-08-24T02:33:59Z",
             "owner": "cmu-db",
             "repo": "dbdb.io",
-            "stars": 576
+            "stars": 577
           }
         }
       ],
@@ -53,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:21:38.441Z",
+    "last_updated": "2026-08-24T14:17:12.091Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_id": 71190322,
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
