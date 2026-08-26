@@ -15,7 +15,7 @@
             "last_commit": "2022-08-07T01:52:15Z",
             "owner": "akumuli",
             "repo": "Akumuli",
-            "stars": 840
+            "stars": 839
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-23T22:21:05Z",
+            "last_commit": "2026-08-25T15:14:39Z",
             "owner": "Netflix",
             "repo": "atlas",
             "stars": 3563
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 50874442,
             "language": "C",
-            "last_commit": "2026-08-24T17:59:30Z",
+            "last_commit": "2026-08-26T14:30:52Z",
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12727
+            "stars": 12730
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-25T14:42:42Z",
+            "last_commit": "2026-08-26T14:41:42Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49439
+            "stars": 49461
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-25T13:33:12Z",
+            "last_commit": "2026-08-26T13:31:15Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5856
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-25T14:18:00Z",
+            "last_commit": "2026-08-26T14:17:33Z",
             "owner": "crate",
             "repo": "crate",
-            "stars": 4426
+            "stars": 4427
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 29259281,
             "language": "Scala",
-            "last_commit": "2026-08-25T00:00:19Z",
+            "last_commit": "2026-08-25T17:37:45Z",
             "owner": "filodb",
             "repo": "FiloDB",
             "stars": 1467
@@ -312,10 +312,10 @@
             "archived": false,
             "id": 13124802,
             "language": "Rust",
-            "last_commit": "2026-08-20T19:31:27Z",
+            "last_commit": "2026-08-25T20:37:43Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31713
+            "stars": 31717
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 158975124,
             "language": "Java",
-            "last_commit": "2026-08-25T13:04:48Z",
+            "last_commit": "2026-08-26T11:12:40Z",
             "owner": "apache",
             "repo": "iotdb",
             "stars": 6382
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-17T15:26:52Z",
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4894
+            "stars": 4895
           }
         },
         {
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 19961085,
             "language": "Java",
-            "last_commit": "2026-08-25T11:08:15Z",
+            "last_commit": "2026-08-26T12:00:31Z",
             "owner": "apache",
             "repo": "pinot",
             "stars": 6128
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-25T14:04:47Z",
+            "last_commit": "2026-08-26T14:38:56Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65812
+            "stars": 65833
           }
         },
         {
@@ -507,10 +507,10 @@
             "archived": false,
             "id": 19257422,
             "language": "Java",
-            "last_commit": "2026-08-25T14:01:24Z",
+            "last_commit": "2026-08-26T14:42:33Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17278
+            "stars": 17279
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-24T21:55:41Z",
             "owner": "taosdata",
             "repo": "TDengine",
-            "stars": 25087
+            "stars": 25090
           }
         },
         {
@@ -597,10 +597,10 @@
             "archived": false,
             "id": 109162639,
             "language": "Go",
-            "last_commit": "2026-08-24T12:18:33Z",
+            "last_commit": "2026-08-26T12:51:48Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14185
+            "stars": 14187
           }
         },
         {
@@ -642,10 +642,10 @@
             "archived": false,
             "id": 84240850,
             "language": "C",
-            "last_commit": "2026-08-25T12:47:26Z",
+            "last_commit": "2026-08-26T14:14:07Z",
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23413
+            "stars": 23418
           }
         },
         {
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-25T13:55:01Z",
+            "last_commit": "2026-08-26T14:15:10Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17592
+            "stars": 17597
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14561
+            "stars": 14583
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2024-03-04T12:40:15Z",
             "owner": "numetriclabz",
             "repo": "awesome-db",
-            "stars": 1378
+            "stars": 1379
           }
         },
         {
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:43:18.084Z",
+    "last_updated": "2026-08-26T14:42:50.701Z",
     "original_repository": "xephonhq/awesome-time-series-database",
     "original_repository_id": 71190322,
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
