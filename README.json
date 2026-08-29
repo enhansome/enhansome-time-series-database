@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Time-series database",
+            "homepage": "http://akumuli.org",
             "id": 16326644,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-07T01:52:15Z",
+            "open_issues": 63,
             "owner": "akumuli",
             "repo": "Akumuli",
-            "stars": 839
+            "stars": 839,
+            "topics": [
+              "c-plus-plus",
+              "database",
+              "metrics",
+              "time-series",
+              "time-series-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -26,12 +38,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance datastore for time series and tick data ",
+            "homepage": "https://arctic.readthedocs.io/en/latest/",
             "id": 36506399,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2024-04-08T16:35:28Z",
+            "open_issues": 97,
             "owner": "man-group",
             "repo": "arctic",
-            "stars": 3085
+            "stars": 3085,
+            "topics": [
+              "arctic",
+              "database",
+              "mongodb",
+              "pandas",
+              "python",
+              "tickstore",
+              "timeseries",
+              "timeseries-database"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-memory dimensional time series database.",
+            "homepage": null,
             "id": 22631422,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:45:35Z",
+            "open_issues": 8,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3564
+            "stars": 3564,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -58,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Beringei is a high performance, in-memory storage engine for time series data.",
+            "homepage": null,
             "id": 70541093,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-11T17:33:58Z",
+            "open_issues": 13,
             "owner": "facebookarchive",
             "repo": "beringei",
-            "stars": 3152
+            "stars": 3152,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -74,12 +110,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple Scalable Time Series Database",
+            "homepage": null,
             "id": 57889412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-08T05:48:01Z",
+            "open_issues": 29,
             "owner": "criteo",
             "repo": "biggraphite",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -90,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed system designed to ingest and process time series data",
+            "homepage": "http://www.blueflood.io",
             "id": 10081109,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T20:34:55Z",
+            "open_issues": 54,
             "owner": "rax-maas",
             "repo": "blueflood",
-            "stars": 598
+            "stars": 598,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Berkeley Tree Database (BTrDB) server",
+            "homepage": "http://btrdb.io",
             "id": 22427082,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-08-14T06:24:24Z",
+            "open_issues": 13,
             "owner": "BTrDB",
             "repo": "btrdb-server",
-            "stars": 910
+            "stars": 910,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -122,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A time series storage engine for Go",
+            "homepage": null,
             "id": 28949765,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2016-03-24T14:40:27Z",
+            "open_issues": 4,
             "owner": "Cistern",
             "repo": "catena",
-            "stars": 390
+            "stars": 390,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -138,12 +194,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Chronix Server implementation that is based on Apache Solr.",
+            "homepage": null,
             "id": 43548435,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-18T13:02:58Z",
+            "open_issues": 5,
             "owner": "ChronixDB",
             "repo": "chronix.server",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "anomalydetection",
+              "chronix-server",
+              "database",
+              "efficiency",
+              "fast",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -154,12 +222,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed PostgreSQL as an extension",
+            "homepage": "https://www.citusdata.com",
             "id": 50874442,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T13:53:15Z",
+            "open_issues": 1063,
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12734
+            "stars": 12735,
+            "topics": [
+              "citus",
+              "citus-extension",
+              "database",
+              "database-cluster",
+              "distributed-database",
+              "multi-tenant",
+              "postgres",
+              "postgresql",
+              "relational-database",
+              "scale",
+              "sharding",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -170,12 +256,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClickHouse® is a real-time analytics database management system",
+            "homepage": "https://clickhouse.com",
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-28T23:22:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:34:59Z",
+            "open_issues": 7229,
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49517
+            "stars": 49517,
+            "topics": [
+              "ai",
+              "analytics",
+              "big-data",
+              "clickhouse",
+              "cloud-native",
+              "cpp",
+              "database",
+              "dbms",
+              "distributed",
+              "embedded",
+              "hacktoberfest",
+              "lakehouse",
+              "mpp",
+              "olap",
+              "rust",
+              "self-hosted",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -186,12 +295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+            "homepage": "https://cortexmetrics.io/",
             "id": 67793333,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:28:51Z",
+            "open_issues": 354,
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5856
+            "stars": 5857,
+            "topics": [
+              "cncf",
+              "hacktoberfest",
+              "kubernetes",
+              "monitoring",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -202,12 +322,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+            "homepage": "https://cratedb.com/database",
             "id": 9342529,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:18:40Z",
+            "open_issues": 320,
             "owner": "crate",
             "repo": "crate",
-            "stars": 4429
+            "stars": 4429,
+            "topics": [
+              "analytics",
+              "big-data",
+              "cratedb",
+              "database",
+              "dbms",
+              "distributed",
+              "distributed-database",
+              "distributed-sql-database",
+              "elasticsearch",
+              "industrial-iot",
+              "iot",
+              "iot-analytics",
+              "iot-database",
+              "lucene",
+              "olap",
+              "postgresql",
+              "sql",
+              "time-series",
+              "tsdb",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -218,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "See gitlab: https://gitlab.com/Project-FiFo/DalmatinerDB/dalmatinerdb",
+            "homepage": "https://dalmatiner.io",
             "id": 20814855,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2019-02-11T02:48:59Z",
+            "open_issues": 28,
             "owner": "dalmatinerdb",
             "repo": "dalmatinerdb",
-            "stars": 691
+            "stars": 691,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -234,12 +385,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Prometheus time series database",
+            "homepage": null,
             "id": 29259281,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:13:25Z",
+            "open_issues": 68,
             "owner": "filodb",
             "repo": "FiloDB",
-            "stars": 1467
+            "stars": 1467,
+            "topics": [
+              "database",
+              "distributed",
+              "kafka",
+              "metrics",
+              "prometheus",
+              "reactive",
+              "scala",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -250,12 +415,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Time Series Library for Apache Spark",
+            "homepage": null,
             "id": 71383857,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-03T12:32:23Z",
+            "open_issues": 44,
             "owner": "twosigma",
             "repo": "flint",
-            "stars": 1177
+            "stars": 1177,
+            "topics": [
+              "spark",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -266,12 +439,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Timeseries database",
+            "homepage": null,
             "id": 91715647,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T13:10:47Z",
+            "open_issues": 46,
             "owner": "gnocchixyz",
             "repo": "gnocchi",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "gnocchi",
+              "python",
+              "timeseries",
+              "timeseries-database"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -282,12 +465,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.",
+            "homepage": "https://griddb.org/",
             "id": 52420005,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-19T08:57:07Z",
+            "open_issues": 51,
             "owner": "griddb",
             "repo": "griddb",
-            "stars": 2475
+            "stars": 2475,
+            "topics": [
+              "bigdata",
+              "database",
+              "fast",
+              "griddb",
+              "iot",
+              "newsql",
+              "nosql",
+              "sql",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -298,12 +497,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Time Series Metrics Engine based on Cassandra",
+            "homepage": null,
             "id": 17705626,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T15:46:05Z",
+            "open_issues": 13,
             "owner": "hawkular",
             "repo": "hawkular-metrics",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "alerting",
+              "hawkular",
+              "java",
+              "metrics",
+              "monitoring",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -314,12 +525,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Heroic Time Series Database",
+            "homepage": "https://spotify.github.io/heroic/",
             "id": 36483902,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-26T19:35:27Z",
+            "open_issues": 70,
             "owner": "spotify",
             "repo": "heroic",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "cassandra",
+              "elasticsearch",
+              "google-bigtable",
+              "google-pubsub",
+              "ha",
+              "java",
+              "monitoring",
+              "time-series",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -330,12 +556,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable datastore for metrics, events, and real-time analytics",
+            "homepage": "https://influxdata.com",
             "id": 13124802,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:13:13Z",
+            "open_issues": 2157,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31726
+            "stars": 31726,
+            "topics": [
+              "database",
+              "go",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "react",
+              "rust",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -346,12 +586,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache IoTDB",
+            "homepage": "https://iotdb.apache.org/",
             "id": 158975124,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:59:08Z",
+            "open_issues": 729,
             "owner": "apache",
             "repo": "iotdb",
-            "stars": 6384
+            "stars": 6384,
+            "topics": [
+              "big-data",
+              "database",
+              "iot",
+              "java",
+              "nosql",
+              "timeseries",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -362,12 +615,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast scalable time series database",
+            "homepage": null,
             "id": 8039659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T22:27:54Z",
+            "open_issues": 141,
             "owner": "kairosdb",
             "repo": "kairosdb",
-            "stars": 1762
+            "stars": 1762,
+            "topics": [
+              "java",
+              "kairosdb",
+              "metrics",
+              "timeseries",
+              "timeseries-database"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -378,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive time series database",
+            "homepage": null,
             "id": 24653898,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-05T13:37:42Z",
+            "open_issues": 16,
             "owner": "khronus",
             "repo": "khronus",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -394,12 +663,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LinDB is a scalable, high performance, high availability distributed time series database.",
+            "homepage": "https://lindb.io/",
             "id": 191676087,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T09:56:31Z",
+            "open_issues": 11,
             "owner": "lindb",
             "repo": "lindb",
-            "stars": 3066
+            "stars": 3066,
+            "topics": [
+              "cross-datacenter-native",
+              "database",
+              "distributed-database",
+              "go",
+              "high-performance",
+              "metrics",
+              "monitoring",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -410,12 +693,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",
+            "homepage": "https://m3db.io/",
             "id": 61153677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T15:26:52Z",
+            "open_issues": 225,
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4895
+            "stars": 4895,
+            "topics": [
+              "aggregator",
+              "graphite",
+              "kubernetes",
+              "m3",
+              "metrics",
+              "prometheus",
+              "query-engine",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -426,12 +723,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "metrics2.0 based, multi-tenant timeseries store for Graphite and friends.",
+            "homepage": null,
             "id": 30401116,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2023-08-23T15:17:14Z",
+            "open_issues": 34,
             "owner": "grafana-cold-storage",
             "repo": "metrictank",
-            "stars": 617
+            "stars": 617,
+            "topics": [
+              "deprecated",
+              "graphite",
+              "metrics",
+              "monitoring",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -442,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "New-fangled Timeseries Data Store",
+            "homepage": null,
             "id": 16189524,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T19:49:32Z",
+            "open_issues": 33,
             "owner": "OpenNMS",
             "repo": "newts",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -458,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable, distributed Time Series Database.",
+            "homepage": "http://opentsdb.net",
             "id": 865412,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2024-12-12T20:03:34Z",
+            "open_issues": 538,
             "owner": "OpenTSDB",
             "repo": "opentsdb",
-            "stars": 5065
+            "stars": 5065,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -474,12 +792,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Pinot - A realtime distributed OLAP datastore",
+            "homepage": "https://pinot.apache.org/",
             "id": 19961085,
             "language": "Java",
-            "last_commit": "2026-08-28T22:12:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:16:32Z",
+            "open_issues": 1382,
             "owner": "apache",
             "repo": "pinot",
-            "stars": 6128
+            "stars": 6128,
+            "topics": [
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -490,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "以简单、易用、高性能为目标、开源的时序数据库，支持Linux和Windows， Time Series Database",
+            "homepage": "http://www.pinusdb.cn",
             "id": 205350261,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-03-19T00:48:29Z",
+            "open_issues": 0,
             "owner": "pinusdb",
             "repo": "pinusdb",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -506,12 +836,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance time-series aggregation for PostgreSQL",
+            "homepage": "https://www.pipelinedb.com",
             "id": 14702444,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-20T10:24:23Z",
+            "open_issues": 133,
             "owner": "pipelinedb",
             "repo": "pipelinedb",
-            "stars": 2662
+            "stars": 2662,
+            "topics": [
+              "aggregation",
+              "analytics",
+              "pipelinedb",
+              "postgresql",
+              "push",
+              "realtime",
+              "sql",
+              "stream-processing",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -522,12 +867,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65878
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -538,12 +896,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuestDB is a high performance, open-source, time-series database",
+            "homepage": "https://questdb.com",
             "id": 19257422,
             "language": "Java",
-            "last_commit": "2026-08-28T20:49:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:07:43Z",
+            "open_issues": 935,
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17286
+            "stars": 17287,
+            "topics": [
+              "capital-markets",
+              "cpp",
+              "database",
+              "financial-analysis",
+              "grafana",
+              "java",
+              "kdb",
+              "low-latency",
+              "market-data",
+              "olap",
+              "parquet",
+              "postgresql",
+              "questdb",
+              "real-time-analytics",
+              "simd",
+              "sql",
+              "tick-data",
+              "time-series",
+              "time-series-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -554,12 +938,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A time series database.",
+            "homepage": null,
             "id": 5575157,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2015-09-17T23:56:18Z",
+            "open_issues": 0,
             "owner": "dustin",
             "repo": "seriesly",
-            "stars": 462
+            "stars": 462,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -570,12 +959,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and scalable timeseries database",
+            "homepage": "http://sidewinder.srotya.com",
             "id": 79304189,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-19T08:17:12Z",
+            "open_issues": 15,
             "owner": "srotya",
             "repo": "sidewinder",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "correlation",
+              "dashboard",
+              "database",
+              "grafana",
+              "iot",
+              "jdbc",
+              "metrics",
+              "monitoring",
+              "real-time",
+              "scalability",
+              "sidewinder",
+              "sql",
+              "sql-query",
+              "storm",
+              "time-series",
+              "timeseries",
+              "timeseries-database",
+              "tsdb",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -586,12 +1000,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be added on the fly. SiriDB's unique query language includes dynamic grouping of time series for easy analysis over large amounts of time series.",
+            "homepage": "https://siridb.com",
             "id": 55093657,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:02:28Z",
+            "open_issues": 4,
             "owner": "SiriDB",
             "repo": "siridb-server",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "database",
+              "siridb",
+              "siridb-server",
+              "ticker-data",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -602,12 +1028,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+            "homepage": "https://tdengine.com",
             "id": 196353673,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T08:32:44Z",
+            "open_issues": 451,
             "owner": "taosdata",
             "repo": "TDengine",
-            "stars": 25091
+            "stars": 25092,
+            "topics": [
+              "bigdata",
+              "cloud-native",
+              "cluster",
+              "connected-vehicles",
+              "database",
+              "distributed",
+              "financial-analysis",
+              "industrial-iot",
+              "iot",
+              "metrics",
+              "monitoring",
+              "scalability",
+              "sql",
+              "tdengine",
+              "time-series",
+              "time-series-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -618,12 +1067,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time Series in Go and PostgreSQL",
+            "homepage": null,
             "id": 50001820,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-22T23:37:19Z",
+            "open_issues": 5,
             "owner": "tgres",
             "repo": "tgres",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "go",
+              "golang",
+              "grafana",
+              "graphite",
+              "postgresql-database",
+              "statsd",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -634,12 +1096,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+            "homepage": "https://thanos.io",
             "id": 109162639,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:51:48Z",
+            "open_issues": 884,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14190
+            "stars": 14190,
+            "topics": [
+              "cncf",
+              "go",
+              "google-cloud-storage",
+              "hacktoberfest",
+              "high-availability",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "prometheus-ha-pairs",
+              "prometheus-setup",
+              "s3",
+              "storage",
+              "thanos"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -650,12 +1132,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Durable time-series database that's API-compatible with Prometheus.",
+            "homepage": null,
             "id": 71015036,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-11T22:08:38Z",
+            "open_issues": 48,
             "owner": "mattbostock",
             "repo": "timbala",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "database",
+              "prometheus",
+              "promql",
+              "time-series",
+              "timeseries",
+              "timeseries-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -666,12 +1161,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accumulo backed time series database",
+            "homepage": "https://code.nsa.gov/timely/",
             "id": 56099345,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T16:12:32Z",
+            "open_issues": 20,
             "owner": "NationalSecurityAgency",
             "repo": "timely",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "accumulo",
+              "hacktoberfest",
+              "series-database",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -682,12 +1188,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+            "homepage": "https://www.tigerdata.com/",
             "id": 84240850,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:46:50Z",
+            "open_issues": 400,
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23437
+            "stars": 23438,
+            "topics": [
+              "analytics",
+              "database",
+              "financial-analysis",
+              "historian",
+              "iot",
+              "postgres",
+              "postgresql",
+              "sql",
+              "tigerdata",
+              "time-series",
+              "time-series-database",
+              "timescaledb",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -698,12 +1223,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrailDB is an efficient tool for storing and querying series of events",
+            "homepage": "http://traildb.io",
             "id": 22868877,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-01-24T17:29:27Z",
+            "open_issues": 38,
             "owner": "traildb",
             "repo": "traildb",
-            "stars": 1090
+            "stars": 1090,
+            "topics": [
+              "big-data",
+              "c",
+              "data-analytics",
+              "database",
+              "event-data",
+              "time-series",
+              "traildb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -714,12 +1252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time Series and FoundationDB. Millions of writes/s and 10x compression in under 2,000 lines of Go.",
+            "homepage": null,
             "id": 189921280,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-08-27T01:12:44Z",
+            "open_issues": 2,
             "owner": "richardartoul",
             "repo": "tsdb-layer",
-            "stars": 522
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -730,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microscopic time series database for Node and the browser",
+            "homepage": null,
             "id": 69587725,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-02-21T16:48:32Z",
+            "open_issues": 0,
             "owner": "mixer",
             "repo": "uts",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -746,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data vault for metrics",
+            "homepage": null,
             "id": 14444952,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2015-03-25T02:38:55Z",
+            "open_issues": 14,
             "owner": "istathar",
             "repo": "vaultaire",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -762,12 +1315,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "homepage": "https://victoriametrics.com/",
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-28T17:38:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:29:57Z",
+            "open_issues": 786,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17610
+            "stars": 17609,
+            "topics": [
+              "database",
+              "grafana",
+              "graphite",
+              "influxdb",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "opentelemetry",
+              "opentsdb",
+              "prometheus",
+              "promql",
+              "thanos",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -778,12 +1350,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vulcan extends Prometheus adding horizontal scalability and long-term storage",
+            "homepage": null,
             "id": 64259705,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-07-10T14:38:55Z",
+            "open_issues": 3,
             "owner": "digitalocean",
             "repo": "vulcan",
-            "stars": 527
+            "stars": 527,
+            "topics": [
+              "metrics",
+              "prometheus",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -794,12 +1375,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Most Advanced Time Series Platform",
+            "homepage": "https://warp10.io/",
             "id": 50594316,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-20T10:21:33Z",
+            "open_issues": 10,
             "owner": "senx",
             "repo": "warp10-platform",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "analysis",
+              "database",
+              "geo",
+              "iiot",
+              "iot",
+              "metrics",
+              "sensor-data",
+              "time-series",
+              "tsdb",
+              "warp10",
+              "warpscript"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -810,12 +1408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A time series database prototype with multiple backends",
+            "homepage": null,
             "id": 80474672,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-02-13T05:20:02Z",
+            "open_issues": 4,
             "owner": "xephonhq",
             "repo": "xephon-k",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "database",
+              "time-series",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         }
@@ -832,12 +1439,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+            "homepage": "https://github.com/onurakpolat/awesome-bigdata",
             "id": 21500692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:51:12Z",
+            "open_issues": 4,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14600
+            "stars": 14600,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bigdata",
+              "data",
+              "data-analytics",
+              "data-science",
+              "data-stream",
+              "data-visualization",
+              "data-warehouse",
+              "database",
+              "distributed-database",
+              "series-database",
+              "stream-processing",
+              "streaming-data",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -848,12 +1476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
+            "homepage": null,
             "id": 22630633,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-04T12:40:15Z",
+            "open_issues": 39,
             "owner": "numetriclabz",
             "repo": "awesome-db",
-            "stars": 1379
+            "stars": 1379,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         },
@@ -864,12 +1497,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The On-line Database of Databases",
+            "homepage": "https://dbdb.io",
             "id": 19864037,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:50:59Z",
+            "open_issues": 36,
             "owner": "cmu-db",
             "repo": "dbdb.io",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "database"
+            ]
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
         }
@@ -878,15 +1518,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:24:20.435Z",
+    "last_updated": "2026-08-29T04:35:27.873Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":clock7: A curated list of awesome time series databases, benchmarks and papers",
+      "homepage": "https://xephonhq.github.io/awesome-time-series-database/",
       "id": 71190322,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2023-07-14T19:09:53Z",
+      "open_issues": 32,
       "owner": "xephonhq",
       "repo": "awesome-time-series-database",
-      "stars": 890
+      "stars": 890,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "database",
+        "time-series",
+        "timeseries-database",
+        "tsdb"
+      ]
     },
     "original_repository_sha": "d7b8d7cca2f502c78151fdb957cc3d82a7eac802",
     "enhanced_repository": "enhansome/enhansome-time-series-database",
