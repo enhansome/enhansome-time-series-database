@@ -261,11 +261,11 @@
             "id": 60246359,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:55:59Z",
-            "open_issues": 8067,
+            "last_commit": "2026-10-03T05:09:23Z",
+            "open_issues": 7992,
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 50205,
+            "stars": 50212,
             "topics": [
               "ai",
               "analytics",
@@ -373,7 +373,7 @@
             "open_issues": 28,
             "owner": "dalmatinerdb",
             "repo": "dalmatinerdb",
-            "stars": 691,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
@@ -561,8 +561,8 @@
             "id": 13124802,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:23:49Z",
-            "open_issues": 2168,
+            "last_commit": "2026-10-03T01:01:11Z",
+            "open_issues": 2167,
             "owner": "influxdata",
             "repo": "influxdb",
             "stars": 31759,
@@ -702,7 +702,7 @@
             "open_issues": 174,
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4905,
+            "stars": 4904,
             "topics": [
               "aggregator",
               "graphite",
@@ -801,7 +801,7 @@
             "open_issues": 1348,
             "owner": "apache",
             "repo": "pinot",
-            "stars": 6146,
+            "stars": 6147,
             "topics": [
               "java"
             ]
@@ -876,7 +876,7 @@
             "open_issues": 937,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 66340,
+            "stars": 66344,
             "topics": [
               "alerting",
               "graphing",
@@ -901,11 +901,11 @@
             "id": 19257422,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:28:34Z",
-            "open_issues": 1010,
+            "last_commit": "2026-10-03T04:46:16Z",
+            "open_issues": 1012,
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17408,
+            "stars": 17412,
             "topics": [
               "apache-arrow",
               "capital-markets",
@@ -1101,11 +1101,11 @@
             "id": 109162639,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:16:27Z",
-            "open_issues": 909,
+            "last_commit": "2026-10-02T19:15:22Z",
+            "open_issues": 907,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14227,
+            "stars": 14230,
             "topics": [
               "cncf",
               "go",
@@ -1193,11 +1193,11 @@
             "id": 84240850,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:28:00Z",
+            "last_commit": "2026-10-02T21:38:45Z",
             "open_issues": 413,
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23635,
+            "stars": 23638,
             "topics": [
               "analytics",
               "database",
@@ -1320,11 +1320,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:01:33Z",
-            "open_issues": 784,
+            "last_commit": "2026-10-02T21:14:55Z",
+            "open_issues": 785,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17806,
+            "stars": 17810,
             "topics": [
               "database",
               "grafana",
@@ -1437,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "awesome big data",
-          "description": null,
+          "description": "oxnr/awesome-bigdata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1450,7 +1450,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14657,
+            "stars": 14658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1474,7 +1474,7 @@
         {
           "node_type": "item",
           "title": "awesome db",
-          "description": null,
+          "description": "numetriclabz/awesome-db",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1487,7 +1487,7 @@
             "open_issues": 40,
             "owner": "numetriclabz",
             "repo": "awesome-db",
-            "stars": 1378,
+            "stars": 1379,
             "topics": []
           },
           "first_seen": "2026-08-28T23:24:20.435Z"
@@ -1520,7 +1520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:59:00.853Z",
+    "last_updated": "2026-10-03T05:12:17.070Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clock7: A curated list of awesome time series databases, benchmarks and papers",
